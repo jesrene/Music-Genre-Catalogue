@@ -1,0 +1,8 @@
+POP: "Billie Jean" by Michael Jackson, "Like a Prayer" by Madonna, "Shape of You" by Ed Sheeran, "Uptown Funk" by Mark Ronson ft. Bruno Mars, "I Want It That Way" by Backstreet Boys, "Rolling in the Deep" by Adele
+ROCK: "Stairway to Heaven" by Led Zeppelin, "Bohemian Rhapsody" by Queen, "Smells Like Teen Spirit" by Nirvana, "Hotel California" by Eagles, "Sweet Child o' Mine" by Guns N' Roses
+HIPHOP: "Lose Yourself" by Eminem, "Juicy" by The Notorious B.I.G., "Alright" by Kendrick Lamar, "Gin and Juice" by Snoop Dogg
+ELECTRONIC: "Clarity" by Zedd ft. Foxes, "One More Time" by Daft Punk, "Strobe" by Deadmau5
+COUNTRY: "Jolene" by Dolly Parton, "Friends in Low Places" by Garth Brooks, "Take Me Home Country Roads" by John Denver
+R&B: "Ain't No Sunshine" by Bill Withers, "I Will Always Love You" by Whitney Houston, "Superstition" by Stevie Wonder
+CLASSICAL: Beethoven's "Symphony No. 5 in C Minor", Mozart's "Eine kleine Nachtmusik", Tchaikovsky's "1812 Overture"
+JAZZ: "Take Five" by Dave Brubeck, "So What" by Miles Davis, "What a Wonderful World" by Louis Armstrong
